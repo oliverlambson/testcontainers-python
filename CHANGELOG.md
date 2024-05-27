@@ -1,5 +1,12 @@
 # Changelog
 
+## [4.5.1](https://github.com/testcontainers/testcontainers-python/compare/testcontainers-v4.5.0...testcontainers-v4.5.1) (2024-05-27)
+
+
+### Bug Fixes
+
+* **keycloak:** realm import ([#584](https://github.com/testcontainers/testcontainers-python/issues/584)) ([111bd09](https://github.com/testcontainers/testcontainers-python/commit/111bd094428b83233d7eca693d94e10b34ee8ae8))
+
 ## [4.5.0](https://github.com/testcontainers/testcontainers-python/compare/testcontainers-v4.4.1...testcontainers-v4.5.0) (2024-05-25)
 
 
